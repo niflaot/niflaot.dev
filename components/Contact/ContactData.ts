@@ -23,7 +23,7 @@ export const contactData: ContactData = {
     title: 'Contact',
     title2: 'Let\u0027s',
     title2Span: 'Talk',
-    email: 'niflaot.dev@gmail.com',
+    email: 'niflaotdev@gmail.com',
     whatsappNumber: '+57 305 790 1484',
     whatsappUrl: 'https://wa.me/573057901484',
   },

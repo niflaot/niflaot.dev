@@ -64,7 +64,7 @@ export const aboutData: AboutData = {
     },
     {
       label: 'Email',
-      url: 'mailto:niflaot.dev@gmail.com',
+      url: 'mailto:niflaotdev@gmail.com',
       bootstrapIcon: 'bi bi-envelope',
     },
   ],
